@@ -3,10 +3,24 @@ body {
 }
 
 .header-img {
-    width: 100%
-    height: 400px
-    background-image: url("https://gifimage.net/wp-content/uploads/2018/06/twinkling-stars-gif-8.gif");
+    width: 100%;
+    height: 120px;
+    background-image: url("https://assets.hongkiat.com/uploads/ww-falling-stars-meteors-wallpapers/4k/original/03.jpg");
     background-size: cover;
     background-repeat: no-repeat, repeat;
-    background-color: #cccccc
+    background-color: #cccccc   
 }
+
+.containerForHeader {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+
+.bottom-left {
+    position: absolute;
+    bottom: 0px;
+    left: 16px;
+
+  }
