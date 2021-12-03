@@ -32,8 +32,11 @@ body {
     color: white;
     position: absolute;
     bottom: 50px;
-    left: 100px
   }
+
+nav {
+    text-align: center;
+}
 
   .aboutHeader {
     position: absolute;
@@ -51,12 +54,12 @@ body {
     padding: 60px
   }
 
-  h1, h2 {
+h1, h2 {
     font-family: 'Roboto', sans-serif;
     color: white;
   }
 
-html, a {
+html{
     font-family: 'Roboto',sans-serif;
     color:white
 }
